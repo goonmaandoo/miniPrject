@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
-데이터베이스를 연결하여 고객 관리 및 영화 예매 관리를 할 수 있는 Java 프로그램입니다. <br>
+데이터베이스를 연결하여 고객 관리 및 영화 예매 관리를 할 수 있는 JDBC 프로그램입니다. <br>
 고객 추가, 수정, 영화 예매 및 다양한 영화 관련 기능을 제공합니다.
 
 ## 목차
@@ -102,4 +102,4 @@ customer2 (1) ──── (N) bookings (N) ──── (1) movies
 ```
 
 ---
-**개발 환경**: Java + Eclipse + Oracle Database + SQL Developer
+**개발 환경**: Java + Eclipse + Oracle Database + SQL Developer 
