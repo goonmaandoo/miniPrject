@@ -101,9 +101,5 @@
 customer2 (1) ──── (N) bookings (N) ──── (1) movies
 ```
 
-
-## 📞 문의사항
-프로젝트에 대한 문의사항이나 개선 제안이 있으시면 언제든지 연락주세요.
-
 ---
 **개발 환경**: Java + Eclipse + Oracle Database + SQL Developer
