@@ -2,9 +2,13 @@
 이 프로젝트는 자바(Java)와 데이터베이스를 연결하여 고객 및 영화 예매를 효율적으로 관리할 수 있는 콘솔 기반 프로그램입니다.
 
 주요 기술 스택
-개발 환경: !(https://upload.wikimedia.org/wikipedia/commons/e/e0/Eclipse-IDE.svg) Eclipse IDE
 
-데이터베이스: !(https://upload.wikimedia.org/wikipedia/commons/4/44/Oracle_logo.svg) Oracle SQL Developer
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/> </a>
+<a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
+</p>
 
 프로그램 기능
 이 프로그램은 다음과 같은 핵심 기능을 제공합니다.
